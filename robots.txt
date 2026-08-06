@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-82oynk.trans88.biz/sitemap.xml
